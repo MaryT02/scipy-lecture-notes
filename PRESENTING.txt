@@ -8,4 +8,5 @@ it defines the right font size, and 'Ctr-Alt-Y' to show/hide the console.
 
 Name of contributors:
 2nd Mary Tziraki
+3rd Annie Smith 
 
